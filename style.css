@@ -20,22 +20,22 @@ body, html {
 
 }
 .c1 {
-  background-image: url('../images/d1.jpg');
+  background-image: url('d1.jpg');
   min-height: 100%;
 }
 
 .c2 {
-  background-image: url('../images/c2.jpg');
+  background-image: url('c2.jpg');
   min-height: 100%;
 }
 
 .c3 {
-  background-image: url("../images/mock.jpg");
+  background-image: url("mock.jpg");
   min-height: 100%;
 }
 
 .c4 {
-  background-image: url("../images/cookie.jpg");
+  background-image: url("cookie.jpg");
   min-height: 100%;
 }
 
@@ -110,7 +110,7 @@ p {
 		
     }
 	.c1 {
-	  background-image: url('../images/d1.png');
+	  background-image: url('d1.png');
 	  max-height: auto;
 	  margin: auto 0;
 	  background-position: contain;
